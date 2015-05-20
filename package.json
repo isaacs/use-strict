@@ -15,7 +15,7 @@
     "strict mode"
   ],
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
-  "license": "BSD",
+  "license": "ISC",
   "readmeFilename": "README.md",
   "gitHead": "a7cdf43563a5ac514c96b6f781d9018e0b7a68e8",
   "bugs": {
